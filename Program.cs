@@ -1,5 +1,6 @@
 ﻿using HtmlAgilityPack;
 using System;
+using System.Collections.Generic;
 using System.Text;
 
 namespace Parser_in_HTMLAgilityPack
@@ -8,17 +9,21 @@ namespace Parser_in_HTMLAgilityPack
     {
         static void Main(string[] args)
         {
-            string html = "https://vc.ru/dev/148017-parsing-na-c-s-htmlagilitypack";
-            HtmlDocument HtmlDoc = new HtmlDocument();
+            string WebSiteSource = "https://vc.ru/dev/148017-parsing-na-c-s-htmlagilitypack";
+            HtmlDocument HtmlDocumentation = new HtmlDocument();
             var web = new HtmlWeb
             {
                 AutoDetectEncoding = false,
                 OverrideEncoding = Encoding.UTF8
             };
 
-            HtmlDoc = web.Load(html);
+            HtmlDocumentation = web.Load(WebSiteSource);
 
-            HtmlNodeCollection htmlNodes = HtmlDoc.DocumentNode.SelectNodes("//h1[@class='content-title']");
+            string Node_Type = "div";
+            string Class_Name = "l-island-a";
+
+            HtmlNodeCollection htmlNodes = HtmlDocumentation.DocumentNode.SelectNodes(string.Format($"//{Node_Type}[@class='{Class_Name}']"));
+
 
             if(htmlNodes != null)
             {
