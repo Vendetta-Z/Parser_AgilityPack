@@ -1,0 +1,15 @@
+C:\Users\VendeTTa\source\repos\Parser_in_HTMLAgilityPack\bin\Debug\netcoreapp3.1\Parser_in_HTMLAgilityPack.exe
+C:\Users\VendeTTa\source\repos\Parser_in_HTMLAgilityPack\bin\Debug\netcoreapp3.1\Parser_in_HTMLAgilityPack.deps.json
+C:\Users\VendeTTa\source\repos\Parser_in_HTMLAgilityPack\bin\Debug\netcoreapp3.1\Parser_in_HTMLAgilityPack.runtimeconfig.json
+C:\Users\VendeTTa\source\repos\Parser_in_HTMLAgilityPack\bin\Debug\netcoreapp3.1\Parser_in_HTMLAgilityPack.runtimeconfig.dev.json
+C:\Users\VendeTTa\source\repos\Parser_in_HTMLAgilityPack\bin\Debug\netcoreapp3.1\Parser_in_HTMLAgilityPack.dll
+C:\Users\VendeTTa\source\repos\Parser_in_HTMLAgilityPack\bin\Debug\netcoreapp3.1\Parser_in_HTMLAgilityPack.pdb
+C:\Users\VendeTTa\source\repos\Parser_in_HTMLAgilityPack\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\VendeTTa\source\repos\Parser_in_HTMLAgilityPack\obj\Debug\netcoreapp3.1\Parser_in_HTMLAgilityPack.csprojAssemblyReference.cache
+C:\Users\VendeTTa\source\repos\Parser_in_HTMLAgilityPack\obj\Debug\netcoreapp3.1\Parser_in_HTMLAgilityPack.AssemblyInfoInputs.cache
+C:\Users\VendeTTa\source\repos\Parser_in_HTMLAgilityPack\obj\Debug\netcoreapp3.1\Parser_in_HTMLAgilityPack.AssemblyInfo.cs
+C:\Users\VendeTTa\source\repos\Parser_in_HTMLAgilityPack\obj\Debug\netcoreapp3.1\Parser_in_HTMLAgilityPack.csproj.CoreCompileInputs.cache
+C:\Users\VendeTTa\source\repos\Parser_in_HTMLAgilityPack\obj\Debug\netcoreapp3.1\Parser_in_HTMLAgilityPack.csproj.CopyComplete
+C:\Users\VendeTTa\source\repos\Parser_in_HTMLAgilityPack\obj\Debug\netcoreapp3.1\Parser_in_HTMLAgilityPack.dll
+C:\Users\VendeTTa\source\repos\Parser_in_HTMLAgilityPack\obj\Debug\netcoreapp3.1\Parser_in_HTMLAgilityPack.pdb
+C:\Users\VendeTTa\source\repos\Parser_in_HTMLAgilityPack\obj\Debug\netcoreapp3.1\Parser_in_HTMLAgilityPack.genruntimeconfig.cache

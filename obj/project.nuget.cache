@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eThE254skP9gcH8dbYIajTHskr4ZsfX4kses20cOZwL/gy2vOhqRWu75nJGtuWmnk9XrZV1FCcSluYYWuYNM0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VendeTTa\\source\\repos\\Parser_in_HTMLAgilityPack\\Parser_in_HTMLAgilityPack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VendeTTa\\.nuget\\packages\\htmlagilitypack\\1.11.33\\htmlagilitypack.1.11.33.nupkg.sha512"
+  ],
+  "logs": []
+}
